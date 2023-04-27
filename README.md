@@ -1,4 +1,4 @@
-Tamagotchi backgrounds for use with [Adam Gastineau](https://github.com/agg23)'s Tamagotchi core
+Tamagotchi backgrounds for use with [agg23](https://github.com/agg23)'s Tamagotchi core
 
 
 | Gen 1  | Gen 2 |
